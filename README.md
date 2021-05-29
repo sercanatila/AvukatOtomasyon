@@ -1,7 +1,8 @@
 # Proje Tanımı ve Kullanılan Teknolojiler
  Avukatların davalarını saklayabileceği bir otomasyon
- C# kullanılmış veritabanı olarak oracle sql kullanılmıştır
-. Avukatlara, dava, mahkeme ve büroya kayıtlı çalışanları(Stajyer, Avukat) veritabanında saklama ve düzenleme(silme, ekleme, güncelleme) imkanı sağlayan bir otomasyondur.
+ C# kullanılmış veritabanı olarak oracle sql kullanılmıştır.
+# Kullanım Senaryoları 
+ Dava, mahkeme ve büroya kayıtlı çalışanları(Stajyer, Avukat) listeleme, arama ve düzenleme(silme, ekleme, güncelleme) işlemleri.
 # Veritabanı Mimarisi
 ![3](https://user-images.githubusercontent.com/59374871/120084113-74cc1c00-c0d6-11eb-98db-028e612a029b.PNG)
 ![4](https://user-images.githubusercontent.com/59374871/120084115-7695df80-c0d6-11eb-876f-81df64a15ed9.PNG)
